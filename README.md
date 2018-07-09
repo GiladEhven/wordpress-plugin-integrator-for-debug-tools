@@ -1,0 +1,1 @@
+# wordpress-plugin-integrator-for-debug-tools
